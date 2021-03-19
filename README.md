@@ -1,4 +1,4 @@
-:grinning: ##Hi there, My name's Njeri (sounds like 'Jeri') Kamau (sounds like KaPow but with an m) :cherry_blossom:
+:grinning: ## Hi there, My name's Njeri (sounds like 'Jeri') Kamau (sounds like KaPow but with an m) :cherry_blossom:
 
 <!--
 **njerimk/njerimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
