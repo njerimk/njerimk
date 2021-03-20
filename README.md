@@ -19,7 +19,7 @@ to bring creativity to my code.
 - 🌱 I’m currently learning AWS working on my certification
 - 🤔 I’m looking for mentors in the field!
 - 💬 Ask me about anything!
-- 📫 How to reach me: you can send me an [email] (mailto:nmurugikamau@gmail.com)
+- 📫 How to reach me: you can send me an [email](mailto:nmurugikamau@gmail.com)
 - 😄 Pronouns: ...she/her/them
 - ⚡ Fun fact: ... I draw and used to do some freelance illustrations. One day I would love to create a graphic novel.
 
