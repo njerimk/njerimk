@@ -1,6 +1,6 @@
-# Njeri ('Jeri') Kamau ('KaPow' but with an 'm') 
+# Njeri Kamau 
 
-Hello, nice to meet you! I am a Full Stack Software Engineer and recent graduate from the 
+Hello, nice to meet you! My name is Njeri ('Jeri') Kamau ('KaPow' but with an 'm') I am a Full Stack Software Engineer and recent graduate from the 
 Flat Iron Full Stack Software Engineering Program. I love to draw and create illustrations and like
 to bring creativity to my code. 
 
