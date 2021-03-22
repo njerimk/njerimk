@@ -9,10 +9,12 @@ to bring creativity to my code.
 [![github_icon](https://img.icons8.com/nolan/34/github.png)](https://github.com/njerimk "my github")
 [![portolio_site](https://img.icons8.com/dotty/36/000000/resume-website.png)](http://njerimk.surge.sh/ "my portfolio site")
 
-#### Programming Languages & Frameworks I'm familiar with:
+#### Programming Languages & Frameworks:
 - [x] Ruby/ Rails ![ruby logo image](https://img.icons8.com/ios/20/000000/ruby-programming-language.png) 
 - [x] Javascript ![javascript logo image](https://img.icons8.com/wired/30/000000/javascript.png) 
 - [x] React JS ![react logo image](https://img.icons8.com/wired/26/000000/react.png) 
+- [x] MySQL ![mysql logo](https://img.icons8.com/ios-filled/26/000000/database-export.png) 
+- [x] PostgreSql ![postgresql logo](https://img.icons8.com/ios-filled/26/000000/postgreesql.png) 
 
 #### Programming Languages & Frameworks I am currently learning
 - [ ] Java ![java logo image](https://img.icons8.com/ios/20/000000/java-eclipse.png)
