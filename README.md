@@ -22,7 +22,7 @@ to bring creativity to my code.
 
 ## Here are some tidbits about me:
 
-- 🔭 I’m currently working on my [personal portfolio site!](http://njerimk.surge.sh/)
+- 🔭 I’m currently working on an instaclone project
 - 🌱 I’m currently learning AWS working on my certification
 - 🤔 I’m looking for mentors in the field!
 - 💬 Ask me about anything!
